@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<!-- saved from url=(0038)file:///C:/CURSO/entregable/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <title>Overclock Computacion</title>
+    <link rel="stylesheet" type="text/css" href="./Overclock Computacion_files/styles.css">
+    <link rel="icon" href="file:///C:/CURSO/entregable/index.html">
+
+</head>
+
+<body>
+
+    <header>
+        <img id="logo" src="./Overclock Computacion_files/logo2.png">
+        <h1 class="titulo">Overclock Computacion</h1>
+
+        <nav id="nav">
+            <ul>
+                <li><a href="file:///C:/CURSO/entregable/index.html">Inicio</a></li>
+                <li><a href="file:///C:/CURSO/entregable/menu/micuenta.html">Mi cuenta</a></li>
+                <li><a href="file:///C:/CURSO/entregable/menu/serviciotecnico.html">Servicio Tecnico</a></li>
+                <li><a href="file:///C:/CURSO/entregable/menu/armatupc.html">Arma tu PC</a></li>
+                <li><a href="file:///C:/CURSO/entregable/menu/consultas.html">Consultas</a></li>
+                <li><a href="file:///C:/CURSO/entregable/menu/redessociales.html">Redes Sociales</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+        <div>
+            <ol>
+                <li><a href="file:///C:/CURSO/entregable/secciones/pcarmadas.html">Equipos y Notebooks</a></li>
+                <li><a href="file:///C:/CURSO/entregable/secciones/procesadores.html">Procesadores</a></li>
+                <li><a href="file:///C:/CURSO/entregable/secciones/mothers.html">Motherboard</a></li>
+                <li hidden=""><a href="file:///C:/CURSO/entregable/Memorias%20Ram">Memorias Ram</a></li>
+                <li hidden=""><a href="file:///C:/CURSO/entregable/Almacenamiento">Almacenamiento</a></li>
+                <li hidden=""><a href="file:///C:/CURSO/entregable/Gabinetes">Gabinetes</a></li>
+                <li><a href="file:///C:/CURSO/entregable/secciones/fuentes.html">Fuentes de alimentacion</a></li>
+                <li hidden=""><a href="file:///C:/CURSO/entregable/Teclados%20y%20mouses">Teclados y mouses</a></li>
+                <li><a href="file:///C:/CURSO/entregable/secciones/notebooks.html">Notebooks</a></li>
+            </ol>
+        </div>
+
+
+        <div>
+            <h3 class="inicioh3">Acerca de nosotros</h3>
+            <p class="inicioparrafo">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam fugiat cupiditate
+                cumque, dicta illum voluptatem temporibus aperiam corporis, minima mollitia, asperiores id molestiae
+                quam? Id tempore facere ex fugiat architecto.
+                Corrupti veritatis sapiente non veniam incidunt reiciendis nostrum eaque maiores facilis dolorem laborum
+                eveniet consectetur unde, amet quis quia quasi laboriosam deleniti?
+                t. Ullam veritatis reiciendis voluptatem voluptates beatae doloribus maiores, tenetur ea ipsa excepturi
+                consectetur ut quod cupiditate, officiis quam, exercitationem molestias minima tempora.
+            </p>
+
+            <a title="pcarmadas" href="file:///C:/CURSO/entregable/secciones/pcarmadas.html"><img src="./Overclock Computacion_files/armadas.jpg" alt="imagen de pc armadas"></a>
+            <a title="Procesadores" href="file:///C:/CURSO/entregable/secciones/procesadores.html"><img src="./Overclock Computacion_files/procesadores.jpg" alt="imagen de procesadores">
+                </a><a title="mothers" href="file:///C:/CURSO/entregable/secciones/mothers.html"><img src="./Overclock Computacion_files/Motherboard-B450-Aorus-Elite.jpg" alt="imagen de mothers">
+                    </a><a title="notebooks" href="file:///C:/CURSO/entregable/secciones/notebooks.html"><img src="./Overclock Computacion_files/notebooks.jpg" alt="imagen de notebook"></a>
+        </div>
+
+    </main>
+
+    <footer>
+        <img src="./Overclock Computacion_files/icons8-facebook-48.png" alt="facebook icono">
+        <img src="./Overclock Computacion_files/icons8-instagram-64.png" alt="instagram icono">
+        <img src="./Overclock Computacion_files/icons8-whatsapp-48.png" alt="whatsapp icono">
+
+        <p>Todos los derechos reservados Overclock Computacion 2012</p>
+
+    </footer>
+
+
+
+
+
+
+
+</body></html>
